@@ -1,0 +1,476 @@
+# Copyright (C) 2024 weDevs
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: User Directory 1.1.1\n"
+"Report-Msgid-Bugs-To: support@wedevs.com\n"
+"POT-Creation-Date: 2024-02-02 04:20:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/Admin/Builder.php:177
+msgid "Fields are updated."
+msgstr ""
+
+#: includes/Admin/Form.php:32 includes/Admin/Form.php:79
+#: includes/Admin/Form.php:154 includes/Admin/Form.php:181
+#: includes/Admin/Form.php:221 includes/Admin/Form.php:266
+msgid "Profile User Role"
+msgstr ""
+
+#: includes/Admin/Form.php:54 includes/Admin/Form.php:133
+#: includes/Admin/Form.php:173 includes/Admin/Form.php:199
+#: includes/Admin/Form.php:241
+msgid "Label"
+msgstr ""
+
+#: includes/Admin/Form.php:61 includes/Admin/Form.php:248
+#: includes/views/admin/form.php:123
+msgid "Meta Key"
+msgstr ""
+
+#: includes/Admin/Form.php:67 includes/Admin/Form.php:109
+#: includes/Admin/Form.php:254 includes/Admin/Form.php:293
+msgid "Profile Fields"
+msgstr ""
+
+#: includes/Admin/Form.php:70 includes/Admin/Form.php:112
+#: includes/Admin/Form.php:257 includes/Admin/Form.php:296
+msgid "Meta Keys"
+msgstr ""
+
+#: includes/Admin/Form.php:96 includes/Admin/Form.php:281
+msgid "Icon URL"
+msgstr ""
+
+#: includes/Admin/Form.php:101 includes/Admin/Form.php:286
+msgid "Upload Icon"
+msgstr ""
+
+#: includes/Admin/Form.php:106 includes/Admin/Form.php:289
+msgid "Profile URL"
+msgstr ""
+
+#: includes/Admin/Form.php:140
+msgid "Post type"
+msgstr ""
+
+#: includes/Admin/Form.php:148 includes/ShortCode.php:334
+#: templates/user-lists.php:26
+msgid "Post Count"
+msgstr ""
+
+#: includes/Admin/Form.php:205
+msgid "Post type Comment"
+msgstr ""
+
+#: includes/Admin/Form.php:214
+msgid "Comment count"
+msgstr ""
+
+#: includes/Admin/Form.php:369
+msgid "Guest"
+msgstr ""
+
+#: includes/Admin/Form.php:399
+#: includes/views/frontend/profile/layouts/layout-one.php:67
+#: templates/profile/layouts/layout-three.php:44
+#: templates/profile/layouts/layout-two.php:80
+#: templates/profile/profile-template-parts/data-tabs.php:10
+msgid "Activity"
+msgstr ""
+
+#: includes/Admin/Form.php:433
+#: includes/views/frontend/profile/layouts/layout-one.php:63
+#: templates/profile/layouts/layout-three.php:40
+#: templates/profile/layouts/layout-two.php:76
+#: templates/profile/profile-template-parts/comments.php:2
+#: templates/profile/profile-template-parts/data-tabs.php:6
+msgid "Comments"
+msgstr ""
+
+#: includes/Admin/Form.php:438
+#: includes/views/frontend/profile/layouts/layout-one.php:64
+#: templates/profile/layouts/layout-three.php:41
+#: templates/profile/layouts/layout-two.php:77
+#: templates/profile/profile-template-parts/data-tabs.php:7
+msgid "Posts"
+msgstr ""
+
+#: includes/Admin/Form.php:443
+#: includes/views/frontend/profile/layouts/layout-one.php:65
+#: templates/profile/layouts/layout-three.php:42
+#: templates/profile/layouts/layout-two.php:78
+#: templates/profile/profile-template-parts/data-tabs.php:8
+#: templates/profile/profile-template-parts/file.php:4
+msgid "File/Image"
+msgstr ""
+
+#: includes/Admin/Form.php:448
+#: includes/views/frontend/profile/layouts/layout-one.php:66
+#: templates/profile/layouts/layout-three.php:43
+#: templates/profile/layouts/layout-two.php:79
+#: templates/profile/profile-template-parts/data-tabs.php:9
+msgid "About"
+msgstr ""
+
+#: includes/Admin/Form.php:468
+msgid "Show/Hide profile tabs"
+msgstr ""
+
+#: includes/Admin/Form.php:469
+msgid "Show or Hide any single profile tab"
+msgstr ""
+
+#: includes/Admin/Form.php:536
+msgid "Remove"
+msgstr ""
+
+#: includes/Admin/Form.php:537
+msgid "Toggle"
+msgstr ""
+
+#: includes/Admin/Form.php:694
+msgid "Show in user listing table"
+msgstr ""
+
+#: includes/Admin/Form.php:699
+msgid "Search by this meta in user listing table"
+msgstr ""
+
+#: includes/Admin/Form.php:704
+msgid "Sort by this meta listing table"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "User Directory"
+msgstr ""
+
+#: includes/Admin/Settings.php:51 includes/ShortCode.php:331
+#: templates/user-lists.php:23
+msgid "User Name"
+msgstr ""
+
+#: includes/Admin/Settings.php:52 includes/ShortCode.php:329
+#: templates/user-lists.php:21
+msgid "User ID"
+msgstr ""
+
+#: includes/Admin/Settings.php:60
+msgid "Profile Gallery Image Size "
+msgstr ""
+
+#: includes/Admin/Settings.php:61
+msgid "Set the image size of picture gallery in frontend"
+msgstr ""
+
+#: includes/Admin/Settings.php:67
+msgid "Avatar Size "
+msgstr ""
+
+#: includes/Admin/Settings.php:68
+msgid "Set the image size of profile picture in frontend"
+msgstr ""
+
+#: includes/Admin/Settings.php:74
+msgid "Single Profile Permalink"
+msgstr ""
+
+#: includes/Admin/Settings.php:75
+msgid "Here you can control the permalink structure of the user profile, e.g. "
+msgstr ""
+
+#: includes/Admin/Settings.php:82
+msgid "Profile Header Template"
+msgstr ""
+
+#: includes/Admin/Settings.php:93
+msgid "User Listing Template"
+msgstr ""
+
+#: includes/Admin.php:82 includes/ShortCode.php:618
+msgid "User Listing"
+msgstr ""
+
+#: includes/Admin.php:130 includes/ShortCode.php:398 includes/ShortCode.php:428
+#: includes/ShortCode.php:608
+msgid "Username"
+msgstr ""
+
+#: includes/Admin.php:138
+msgid "First Name"
+msgstr ""
+
+#: includes/Admin.php:146
+msgid "Last Name"
+msgstr ""
+
+#: includes/Admin.php:154
+msgid "Nickname"
+msgstr ""
+
+#: includes/Admin.php:161
+msgid "E-mail"
+msgstr ""
+
+#: includes/Admin.php:168 templates/profile/layouts/layout-two.php:59
+msgid "Website"
+msgstr ""
+
+#: includes/Admin.php:175
+msgid "Biographical Info"
+msgstr ""
+
+#: includes/ShortCode.php:211
+msgid "Nohting found!"
+msgstr ""
+
+#: includes/ShortCode.php:328 templates/user-lists.php:20
+msgid "User Login"
+msgstr ""
+
+#: includes/ShortCode.php:330 templates/user-lists.php:22
+msgid "Display Name"
+msgstr ""
+
+#: includes/ShortCode.php:332 templates/user-lists.php:24
+msgid "Nicename"
+msgstr ""
+
+#: includes/ShortCode.php:333 templates/user-lists.php:25
+msgid "Registered Date"
+msgstr ""
+
+#: includes/ShortCode.php:338 templates/user-lists.php:30
+msgid "ASC"
+msgstr ""
+
+#: includes/ShortCode.php:339 templates/user-lists.php:31
+msgid "DESC"
+msgstr ""
+
+#: includes/ShortCode.php:351
+msgid "Search by: "
+msgstr ""
+
+#: includes/ShortCode.php:353 templates/user-lists.php:60
+msgid "- all -"
+msgstr ""
+
+#: includes/ShortCode.php:362
+msgid "Orderby: "
+msgstr ""
+
+#: includes/ShortCode.php:368
+msgid "Order: "
+msgstr ""
+
+#: includes/ShortCode.php:374
+msgid "Search here"
+msgstr ""
+
+#: includes/ShortCode.php:376
+msgid "Search"
+msgstr ""
+
+#: includes/ShortCode.php:399 includes/ShortCode.php:429
+#: includes/ShortCode.php:609
+msgid "Name"
+msgstr ""
+
+#: includes/views/admin/form.php:1
+msgid "WP User Frontend Pro: User Listing"
+msgstr ""
+
+#: includes/views/admin/form.php:5
+msgid "Click to Add Items"
+msgstr ""
+
+#: includes/views/admin/form.php:13
+msgid "Add Meta field"
+msgstr ""
+
+#: includes/views/admin/form.php:22
+msgid "Add Section"
+msgstr ""
+
+#: includes/views/admin/form.php:31
+msgid "Add Post Type"
+msgstr ""
+
+#: includes/views/admin/form.php:40
+msgid "Add Comment"
+msgstr ""
+
+#: includes/views/admin/form.php:49
+msgid "Social"
+msgstr ""
+
+#: includes/views/admin/form.php:58
+msgid "Image / File"
+msgstr ""
+
+#: includes/views/admin/form.php:72
+msgid "Toggle Fields"
+msgstr ""
+
+#: includes/views/admin/form.php:77
+msgid "Show Avatar"
+msgstr ""
+
+#: includes/views/admin/form.php:87
+msgid "Save Changes"
+msgstr ""
+
+#: includes/views/admin/form.php:95
+msgid "Post Listing"
+msgstr ""
+
+#: includes/views/admin/form.php:114
+msgid "Section"
+msgstr ""
+
+#: includes/views/frontend/profile/layouts/layout-one.php:4
+#: templates/profile/layouts/layout-one.php:4
+#: templates/profile/layouts/layout-three.php:3
+#: templates/profile/layouts/layout-two.php:12
+msgid "&larr; Back"
+msgstr ""
+
+#: includes/views/frontend/profile/layouts/layout-one.php:30
+#: templates/profile/layouts/layout-one.php:32
+#: templates/profile/profile-template-parts/user-bio.php:6
+msgid "Biography"
+msgstr ""
+
+#: includes/views/frontend/profile/layouts/layout-one.php:40
+#: templates/profile/layouts/layout-one.php:42
+msgid "View More"
+msgstr ""
+
+#: lib/class.user-directory-settings-api.php:31
+msgid "Active"
+msgstr ""
+
+#: lib/class.user-directory-settings-api.php:35
+msgid "Select"
+msgstr ""
+
+#: templates/profile/layouts/layout-two.php:29
+msgid "Phone No"
+msgstr ""
+
+#: templates/profile/layouts/layout-two.php:46
+msgid "Email"
+msgstr ""
+
+#: templates/profile/profile-template-parts/about.php:94
+msgid "Social Section"
+msgstr ""
+
+#: templates/profile/profile-template-parts/comments.php:19
+msgid "Comment"
+msgstr ""
+
+#: templates/profile/profile-template-parts/comments.php:20
+msgid "Commented On"
+msgstr ""
+
+#: templates/profile/profile-template-parts/comments.php:21
+msgid "Comment Date"
+msgstr ""
+
+#: templates/profile/profile-template-parts/comments.php:22
+#: templates/profile/profile-template-parts/posts.php:13
+msgid "Details"
+msgstr ""
+
+#: templates/profile/profile-template-parts/comments.php:42
+msgid "Read More"
+msgstr ""
+
+#: templates/profile/profile-template-parts/comments.php:52
+msgid "No comment found"
+msgstr ""
+
+#: templates/profile/profile-template-parts/file.php:72
+msgid "No file found"
+msgstr ""
+
+#: templates/profile/profile-template-parts/posts.php:6
+msgid "All Posts"
+msgstr ""
+
+#: templates/profile/profile-template-parts/posts.php:11
+msgid "Post Title"
+msgstr ""
+
+#: templates/profile/profile-template-parts/posts.php:12
+msgid "Publish Date"
+msgstr ""
+
+#: templates/profile/profile-template-parts/posts.php:44
+msgid "Post Link"
+msgstr ""
+
+#: templates/profile/profile-template-parts/posts.php:56
+msgid "No post found"
+msgstr ""
+
+#: templates/show-profile.php:68
+msgid "Message"
+msgstr ""
+
+#: templates/user-lists/circle-thumbnail-grid-layout.php:37
+#: templates/user-lists/square-grid-layout.php:29
+#: templates/user-lists/square-thumbnail-grid-layout.php:29
+#: templates/user-lists/table-layout.php:53
+msgid "View Profile"
+msgstr ""
+
+#: templates/user-lists/table-layout.php:9
+msgid "Avatar"
+msgstr ""
+
+#: templates/user-lists.php:40
+msgid "Search User"
+msgstr ""
+
+#: templates/user-lists.php:52
+msgid "Reset"
+msgstr ""
+
+#: templates/user-lists.php:57
+msgid "Search By"
+msgstr ""
+
+#: templates/user-lists.php:72
+msgid "Order By"
+msgstr ""
+
+#: templates/user-lists.php:82
+msgid "Order"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://wedevs.com/products/plugins/wp-user-frontend-pro/user-listing-"
+"profile/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Handle user listing and user profile in frontend"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "weDevs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wedevs.com"
+msgstr ""

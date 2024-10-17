@@ -1,0 +1,597 @@
+[08.10.2024 07:51:04][Invalid Stripe] Invalid stripe signature
+[08.10.2024 07:51:04][Invalid Stripe] Invalid stripe signature
+[08.10.2024 07:51:04][Invalid Stripe] Invalid stripe signature
+[08.10.2024 07:51:04][payment] inserting payment to database. Array
+(
+    [user_id] => 1
+    [status] => completed
+    [subtotal] => 340
+    [tax] => 0
+    [cost] => 340.00
+    [post_id] => 0
+    [pack_id] => 15958
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7YC7DiVYiR1HZ33izSTmJQ
+    [created] => 2024-10-08 07:51:04
+    [payer_first_name] => Muneeb
+    [payer_last_name] => ur Rehman
+    [payer_email] => admin@dash.pinionnewswire.com
+)
+
+[08.10.2024 07:51:19][Invalid Stripe] Invalid stripe signature
+[08.10.2024 07:51:21][Invalid Stripe] Invalid stripe signature
+[08.10.2024 07:51:21][Invalid Stripe] Invalid stripe signature
+[08.10.2024 08:04:02][Invalid Stripe] Invalid stripe signature
+[08.10.2024 08:04:02][Invalid Stripe] Invalid stripe signature
+[08.10.2024 08:04:03][Invalid Stripe] Invalid stripe signature
+[08.10.2024 08:04:03][payment] inserting payment to database. Array
+(
+    [user_id] => 1
+    [status] => completed
+    [subtotal] => 340
+    [tax] => 0
+    [cost] => 340.00
+    [post_id] => 0
+    [pack_id] => 15958
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7YOgDiVYiR1HZ32AoVc4Mh
+    [created] => 2024-10-08 08:04:03
+    [payer_first_name] => Muneeb
+    [payer_last_name] => ur Rehman
+    [payer_email] => admin@dash.pinionnewswire.com
+)
+
+[08.10.2024 08:05:40][Invalid Stripe] Invalid stripe signature
+[08.10.2024 08:05:40][Invalid Stripe] Invalid stripe signature
+[08.10.2024 08:05:40][Invalid Stripe] Invalid stripe signature
+[08.10.2024 08:05:40][payment] inserting payment to database. Array
+(
+    [user_id] => 1
+    [status] => completed
+    [subtotal] => 340
+    [tax] => 0
+    [cost] => 340.00
+    [post_id] => 0
+    [pack_id] => 15958
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7YQFDiVYiR1HZ32eYmFxVR
+    [created] => 2024-10-08 08:05:40
+    [payer_first_name] => Muneeb
+    [payer_last_name] => ur Rehman
+    [payer_email] => admin@dash.pinionnewswire.com
+)
+
+[08.10.2024 08:51:47][Invalid Stripe] Invalid stripe signature
+[08.10.2024 08:52:09][Invalid Stripe] Invalid stripe signature
+[08.10.2024 08:52:25][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:03:33][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:04:53][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:04:59][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:05:13][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:05:13][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:05:21][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:56:08][payment] inserting payment to database. Array
+(
+    [user_id] => 2
+    [status] => completed
+    [subtotal] => 340
+    [tax] => 0
+    [cost] => 340.00
+    [post_id] => 0
+    [pack_id] => 15958
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7a9BDiVYiR1HZ32OQaj8Fn
+    [created] => 2024-10-08 09:56:08
+    [payer_first_name] => 
+    [payer_last_name] => 
+    [payer_email] => anmol797@gmail.com
+)
+
+[08.10.2024 09:56:08][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:56:08][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:56:09][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:01:59][payment] inserting payment to database. Array
+(
+    [user_id] => 2
+    [status] => completed
+    [subtotal] => 340
+    [tax] => 0
+    [cost] => 340.00
+    [post_id] => 0
+    [pack_id] => 16161
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7aEpDiVYiR1HZ30ETYti7g
+    [created] => 2024-10-08 10:01:59
+    [payer_first_name] => 
+    [payer_last_name] => 
+    [payer_email] => anmol797@gmail.com
+)
+
+[08.10.2024 10:01:59][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:01:59][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:01:59][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:55:21][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:56:22][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:57:19][Invalid Stripe] Invalid stripe signature
+[08.10.2024 11:01:22][Invalid Stripe] Invalid stripe signature
+[08.10.2024 11:01:23][Invalid Stripe] Invalid stripe signature
+[08.10.2024 11:02:46][Invalid Stripe] Invalid stripe signature
+[08.10.2024 11:03:11][Invalid Stripe] Invalid stripe signature
+[08.10.2024 11:03:27][Invalid Stripe] Invalid stripe signature
+[08.10.2024 11:03:30][Invalid Stripe] Invalid stripe signature
+[08.10.2024 11:06:40][Invalid Stripe] Invalid stripe signature
+[08.10.2024 11:06:54][Invalid Stripe] Invalid stripe signature
+[08.10.2024 11:07:12][Invalid Stripe] Invalid stripe signature
+[08.10.2024 12:53:27][Invalid Stripe] Invalid stripe signature
+[08.10.2024 12:54:29][Invalid Stripe] Invalid stripe signature
+[08.10.2024 12:58:13][Invalid Stripe] Invalid stripe signature
+[08.10.2024 12:59:47][Invalid Stripe] Invalid stripe signature
+[08.10.2024 01:01:37][Invalid Stripe] Invalid stripe signature
+[08.10.2024 01:03:39][Invalid Stripe] Invalid stripe signature
+[08.10.2024 02:36:26][payment] inserting payment to database. Array
+(
+    [user_id] => 2
+    [status] => completed
+    [subtotal] => 350
+    [tax] => 0
+    [cost] => 350.00
+    [post_id] => 16266
+    [pack_id] => 0
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7eWRDiVYiR1HZ33PzEYAo8
+    [created] => 2024-10-08 14:36:26
+    [payer_first_name] => 
+    [payer_last_name] => 
+    [payer_email] => anmol797@gmail.com
+)
+
+[08.10.2024 02:36:26][Invalid Stripe] Invalid stripe signature
+[08.10.2024 02:36:27][Invalid Stripe] Invalid stripe signature
+[08.10.2024 02:36:27][Invalid Stripe] Invalid stripe signature
+[08.10.2024 02:36:42][Invalid Stripe] Invalid stripe signature
+[08.10.2024 02:36:42][Invalid Stripe] Invalid stripe signature
+[08.10.2024 02:36:42][Invalid Stripe] Invalid stripe signature
+[08.10.2024 02:42:01][payment] inserting payment to database. Array
+(
+    [user_id] => 2
+    [status] => completed
+    [subtotal] => 340
+    [tax] => 0
+    [cost] => 340.00
+    [post_id] => 0
+    [pack_id] => 15958
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7ebpDiVYiR1HZ33HyEPmtt
+    [created] => 2024-10-08 14:42:01
+    [payer_first_name] => 
+    [payer_last_name] => 
+    [payer_email] => anmol797@gmail.com
+)
+
+[08.10.2024 02:42:01][Invalid Stripe] Invalid stripe signature
+[08.10.2024 02:42:01][Invalid Stripe] Invalid stripe signature
+[08.10.2024 02:42:01][Invalid Stripe] Invalid stripe signature
+[08.10.2024 02:45:46][payment] inserting payment to database. Array
+(
+    [user_id] => 4
+    [status] => completed
+    [subtotal] => 350
+    [tax] => 0
+    [cost] => 350.00
+    [post_id] => 16296
+    [pack_id] => 0
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7efSDiVYiR1HZ34MvVY5Gz
+    [created] => 2024-10-08 14:45:46
+    [payer_first_name] => Shadanb
+    [payer_last_name] => Khab
+    [payer_email] => muneeb@fimscolleges.edu.pk
+)
+
+[08.10.2024 02:45:46][Invalid Stripe] Invalid stripe signature
+[08.10.2024 02:45:46][Invalid Stripe] Invalid stripe signature
+[08.10.2024 02:45:46][Invalid Stripe] Invalid stripe signature
+[08.10.2024 03:09:18][payment] inserting payment to database. Array
+(
+    [user_id] => 5
+    [status] => completed
+    [subtotal] => 350
+    [tax] => 0
+    [cost] => 350.00
+    [post_id] => 16308
+    [pack_id] => 0
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7f2FDiVYiR1HZ32zPSsi71
+    [created] => 2024-10-08 15:09:18
+    [payer_first_name] => Ahsan
+    [payer_last_name] => Tariq
+    [payer_email] => m.ahsankhan002@gmail.com
+)
+
+[08.10.2024 03:09:19][Invalid Stripe] Invalid stripe signature
+[08.10.2024 03:09:19][Invalid Stripe] Invalid stripe signature
+[08.10.2024 03:09:19][Invalid Stripe] Invalid stripe signature
+[08.10.2024 03:35:37][Invalid Stripe] Invalid stripe signature
+[08.10.2024 03:35:39][Invalid Stripe] Invalid stripe signature
+[08.10.2024 03:37:48][Invalid Stripe] Invalid stripe signature
+[08.10.2024 03:41:22][Invalid Stripe] Invalid stripe signature
+[08.10.2024 03:41:27][Invalid Stripe] Invalid stripe signature
+[08.10.2024 03:42:43][Invalid Stripe] Invalid stripe signature
+[08.10.2024 03:44:40][Invalid Stripe] Invalid stripe signature
+[08.10.2024 03:46:04][Invalid Stripe] Invalid stripe signature
+[08.10.2024 03:46:49][Invalid Stripe] Invalid stripe signature
+[08.10.2024 04:08:23][Invalid Stripe] Invalid stripe signature
+[08.10.2024 04:08:50][Invalid Stripe] Invalid stripe signature
+[08.10.2024 04:10:24][Invalid Stripe] Invalid stripe signature
+[08.10.2024 05:39:27][Invalid Stripe] Invalid stripe signature
+[08.10.2024 05:41:24][Invalid Stripe] Invalid stripe signature
+[08.10.2024 05:42:25][Invalid Stripe] Invalid stripe signature
+[08.10.2024 05:44:55][Invalid Stripe] Invalid stripe signature
+[08.10.2024 05:46:12][Invalid Stripe] Invalid stripe signature
+[08.10.2024 05:46:34][Invalid Stripe] Invalid stripe signature
+[08.10.2024 06:07:12][Invalid Stripe] Invalid stripe signature
+[08.10.2024 06:09:40][Invalid Stripe] Invalid stripe signature
+[08.10.2024 06:10:35][Invalid Stripe] Invalid stripe signature
+[08.10.2024 07:47:32][payment] inserting payment to database. Array
+(
+    [user_id] => 4
+    [status] => completed
+    [subtotal] => 350
+    [tax] => 0
+    [cost] => 350.00
+    [post_id] => 16524
+    [pack_id] => 0
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7jNVDiVYiR1HZ30gRSnFfy
+    [created] => 2024-10-08 19:47:32
+    [payer_first_name] => Shadanb
+    [payer_last_name] => Khab
+    [payer_email] => muneeb@fimscolleges.edu.pk
+)
+
+[08.10.2024 07:47:33][Invalid Stripe] Invalid stripe signature
+[08.10.2024 07:47:33][Invalid Stripe] Invalid stripe signature
+[08.10.2024 07:47:33][Invalid Stripe] Invalid stripe signature
+[08.10.2024 07:47:49][Invalid Stripe] Invalid stripe signature
+[08.10.2024 07:47:50][Invalid Stripe] Invalid stripe signature
+[08.10.2024 07:47:50][Invalid Stripe] Invalid stripe signature
+[08.10.2024 08:47:14][Invalid Stripe] Invalid stripe signature
+[08.10.2024 08:47:37][Invalid Stripe] Invalid stripe signature
+[08.10.2024 08:48:45][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:30:54][payment] inserting payment to database. Array
+(
+    [user_id] => 4
+    [status] => completed
+    [subtotal] => 350
+    [tax] => 0
+    [cost] => 350.00
+    [post_id] => 16607
+    [pack_id] => 0
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7kzXDiVYiR1HZ3336CKGhg
+    [created] => 2024-10-08 21:30:54
+    [payer_first_name] => Shadanb
+    [payer_last_name] => Khab
+    [payer_email] => muneeb@fimscolleges.edu.pk
+)
+
+[08.10.2024 09:30:55][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:30:55][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:30:55][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:42:34][payment] inserting payment to database. Array
+(
+    [user_id] => 4
+    [status] => completed
+    [subtotal] => 350
+    [tax] => 0
+    [cost] => 350.00
+    [post_id] => 16610
+    [pack_id] => 0
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7lAoDiVYiR1HZ31IPZPFS7
+    [created] => 2024-10-08 21:42:34
+    [payer_first_name] => Shadanb
+    [payer_last_name] => Khab
+    [payer_email] => muneeb@fimscolleges.edu.pk
+)
+
+[08.10.2024 09:42:34][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:42:34][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:42:34][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:51:09][payment] inserting payment to database. Array
+(
+    [user_id] => 4
+    [status] => completed
+    [subtotal] => 350
+    [tax] => 0
+    [cost] => 350.00
+    [post_id] => 16613
+    [pack_id] => 0
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7lJ8DiVYiR1HZ32WE4dCpE
+    [created] => 2024-10-08 21:51:09
+    [payer_first_name] => Shadanb
+    [payer_last_name] => Khab
+    [payer_email] => muneeb@fimscolleges.edu.pk
+)
+
+[08.10.2024 09:51:09][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:51:10][Invalid Stripe] Invalid stripe signature
+[08.10.2024 09:51:10][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:29:48][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:30:16][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:31:12][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:41:39][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:41:44][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:42:57][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:50:17][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:51:27][Invalid Stripe] Invalid stripe signature
+[08.10.2024 10:52:13][Invalid Stripe] Invalid stripe signature
+[09.10.2024 12:30:27][Invalid Stripe] Invalid stripe signature
+[09.10.2024 12:31:11][Invalid Stripe] Invalid stripe signature
+[09.10.2024 12:31:29][Invalid Stripe] Invalid stripe signature
+[09.10.2024 12:41:20][Invalid Stripe] Invalid stripe signature
+[09.10.2024 12:41:38][Invalid Stripe] Invalid stripe signature
+[09.10.2024 12:41:49][Invalid Stripe] Invalid stripe signature
+[09.10.2024 12:48:37][Invalid Stripe] Invalid stripe signature
+[09.10.2024 12:49:46][Invalid Stripe] Invalid stripe signature
+[09.10.2024 12:52:00][Invalid Stripe] Invalid stripe signature
+[09.10.2024 01:16:53][Invalid Stripe] Invalid stripe signature
+[09.10.2024 01:16:53][Invalid Stripe] Invalid stripe signature
+[09.10.2024 01:16:53][Invalid Stripe] Invalid stripe signature
+[09.10.2024 01:16:53][payment] inserting payment to database. Array
+(
+    [user_id] => 4
+    [status] => completed
+    [subtotal] => 350
+    [tax] => 0
+    [cost] => 350.00
+    [post_id] => 16621
+    [pack_id] => 0
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q7oWCDiVYiR1HZ30M6OGf3d
+    [created] => 2024-10-09 01:16:53
+    [payer_first_name] => Shadanb
+    [payer_last_name] => Khab
+    [payer_email] => muneeb@fimscolleges.edu.pk
+)
+
+[09.10.2024 02:16:02][Invalid Stripe] Invalid stripe signature
+[09.10.2024 02:16:34][Invalid Stripe] Invalid stripe signature
+[09.10.2024 02:17:12][Invalid Stripe] Invalid stripe signature
+[09.10.2024 04:14:34][Invalid Stripe] Invalid stripe signature
+[09.10.2024 04:14:49][Invalid Stripe] Invalid stripe signature
+[09.10.2024 04:17:38][Invalid Stripe] Invalid stripe signature
+[10.10.2024 02:41:04][payment] inserting payment to database. Array
+(
+    [user_id] => 4
+    [status] => completed
+    [subtotal] => 350
+    [tax] => 0
+    [cost] => 350.00
+    [post_id] => 17001
+    [pack_id] => 0
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q8NY1DiVYiR1HZ34REel7lW
+    [created] => 2024-10-10 14:41:04
+    [payer_first_name] => Shadanb
+    [payer_last_name] => Khab
+    [payer_email] => muneeb@fimscolleges.edu.pk
+)
+
+[10.10.2024 02:41:05][Invalid Stripe] Invalid stripe signature
+[10.10.2024 02:41:05][Invalid Stripe] Invalid stripe signature
+[10.10.2024 02:41:05][Invalid Stripe] Invalid stripe signature
+[10.10.2024 02:41:22][Invalid Stripe] Invalid stripe signature
+[10.10.2024 02:41:22][Invalid Stripe] Invalid stripe signature
+[10.10.2024 02:41:22][Invalid Stripe] Invalid stripe signature
+[10.10.2024 03:40:22][Invalid Stripe] Invalid stripe signature
+[10.10.2024 03:40:57][Invalid Stripe] Invalid stripe signature
+[10.10.2024 03:41:55][Invalid Stripe] Invalid stripe signature
+[11.10.2024 02:40:59][payment] inserting payment to database. Array
+(
+    [user_id] => 1
+    [status] => completed
+    [subtotal] => 490
+    [tax] => 0
+    [cost] => 490.00
+    [post_id] => 17283
+    [pack_id] => 0
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q8k1TDiVYiR1HZ33Yp2hMkr
+    [created] => 2024-10-11 14:40:59
+    [payer_first_name] => Muneeb
+    [payer_last_name] => ur Rehman
+    [payer_email] => admin@dash.pinionnewswire.com
+)
+
+[11.10.2024 02:40:59][Invalid Stripe] Invalid stripe signature
+[11.10.2024 02:40:59][Invalid Stripe] Invalid stripe signature
+[11.10.2024 02:40:59][Invalid Stripe] Invalid stripe signature
+[11.10.2024 02:41:14][Invalid Stripe] Invalid stripe signature
+[11.10.2024 02:41:16][Invalid Stripe] Invalid stripe signature
+[11.10.2024 02:41:17][Invalid Stripe] Invalid stripe signature
+[11.10.2024 03:05:01][payment] inserting payment to database. Array
+(
+    [user_id] => 4
+    [status] => completed
+    [subtotal] => 490
+    [tax] => 0
+    [cost] => 490.00
+    [post_id] => 17289
+    [pack_id] => 0
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q8kOjDiVYiR1HZ33UEbpRGZ
+    [created] => 2024-10-11 15:05:01
+    [payer_first_name] => Shadanb
+    [payer_last_name] => Khab
+    [payer_email] => muneeb@fimscolleges.edu.pk
+)
+
+[11.10.2024 03:05:01][Invalid Stripe] Invalid stripe signature
+[11.10.2024 03:05:02][Invalid Stripe] Invalid stripe signature
+[11.10.2024 03:05:02][Invalid Stripe] Invalid stripe signature
+[11.10.2024 03:40:17][Invalid Stripe] Invalid stripe signature
+[11.10.2024 03:40:36][Invalid Stripe] Invalid stripe signature
+[11.10.2024 03:41:34][Invalid Stripe] Invalid stripe signature
+[11.10.2024 04:04:00][Invalid Stripe] Invalid stripe signature
+[11.10.2024 04:05:02][Invalid Stripe] Invalid stripe signature
+[11.10.2024 04:05:19][Invalid Stripe] Invalid stripe signature
+[11.10.2024 06:02:42][Invalid Stripe] Invalid stripe signature
+[11.10.2024 06:04:18][Invalid Stripe] Invalid stripe signature
+[11.10.2024 06:06:37][Invalid Stripe] Invalid stripe signature
+[11.10.2024 08:37:21][payment] inserting payment to database. Array
+(
+    [user_id] => 9
+    [status] => completed
+    [subtotal] => 504.7
+    [tax] => 14.7
+    [cost] => 504.70
+    [post_id] => 17344
+    [pack_id] => 0
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q8paMDiVYiR1HZ341SAJvaJ
+    [created] => 2024-10-11 16:37:21
+    [payer_first_name] => Ahsan
+    [payer_last_name] => Tariq
+    [payer_email] => ahsan@pinionnewswire.com
+)
+
+[11.10.2024 08:37:22][Invalid Stripe] Invalid stripe signature
+[11.10.2024 08:37:22][Invalid Stripe] Invalid stripe signature
+[11.10.2024 08:37:22][Invalid Stripe] Invalid stripe signature
+[11.10.2024 08:37:37][Invalid Stripe] Invalid stripe signature
+[11.10.2024 08:37:37][Invalid Stripe] Invalid stripe signature
+[11.10.2024 08:37:39][Invalid Stripe] Invalid stripe signature
+[11.10.2024 09:36:53][Invalid Stripe] Invalid stripe signature
+[11.10.2024 09:38:22][Invalid Stripe] Invalid stripe signature
+[11.10.2024 09:38:46][Invalid Stripe] Invalid stripe signature
+[11.10.2024 10:29:59][payment] inserting payment to database. Array
+(
+    [user_id] => 1
+    [status] => completed
+    [subtotal] => 499.8
+    [tax] => 9.8
+    [cost] => 499.80
+    [post_id] => 17345
+    [pack_id] => 0
+    [payment_type] => Stripe
+    [transaction_id] => pi_3Q8rLLDiVYiR1HZ30R8lMCXY
+    [created] => 2024-10-11 18:29:59
+    [payer_first_name] => Muneeb
+    [payer_last_name] => ur Rehman
+    [payer_email] => admin@dash.pinionnewswire.com
+)
+
+[11.10.2024 10:29:59][Invalid Stripe] Invalid stripe signature
+[11.10.2024 10:29:59][Invalid Stripe] Invalid stripe signature
+[11.10.2024 10:29:59][Invalid Stripe] Invalid stripe signature
+[11.10.2024 11:29:28][Invalid Stripe] Invalid stripe signature
+[11.10.2024 11:29:52][Invalid Stripe] Invalid stripe signature
+[11.10.2024 11:31:11][Invalid Stripe] Invalid stripe signature
+[12.10.2024 01:30:03][Invalid Stripe] Invalid stripe signature
+[12.10.2024 01:30:44][Invalid Stripe] Invalid stripe signature
+[12.10.2024 01:31:02][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:03:10][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:03:43][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:04:01][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:04:17][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:04:18][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:04:34][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:04:53][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:05:30][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:06:03][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:06:14][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:31:58][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:31:59][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:31:59][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:32:00][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:32:01][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:32:18][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:32:18][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:32:48][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:32:48][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:32:53][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:32:56][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:32:57][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:32:57][Invalid Stripe] Invalid stripe signature
+[16.10.2024 06:32:57][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:30:54][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:31:08][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:31:30][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:31:51][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:31:52][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:31:54][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:32:12][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:32:18][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:32:31][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:32:33][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:32:55][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:33:10][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:33:29][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:33:35][Invalid Stripe] Invalid stripe signature
+[16.10.2024 07:35:55][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:01:36][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:02:11][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:02:42][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:04:17][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:04:41][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:05:25][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:05:48][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:06:06][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:06:29][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:07:36][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:29:28][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:29:28][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:29:28][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:29:28][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:29:28][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:29:28][Invalid Stripe] Invalid stripe signature
+[16.10.2024 08:29:29][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:28:22][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:28:31][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:28:43][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:28:54][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:29:25][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:29:26][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:29:31][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:30:12][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:30:13][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:31:12][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:31:23][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:31:34][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:31:59][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:32:57][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:33:22][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:33:25][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:33:44][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:34:15][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:34:56][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:35:24][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:35:34][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:40:50][Invalid Stripe] Invalid stripe signature
+[16.10.2024 09:57:01][Invalid Stripe] Invalid stripe signature
+[16.10.2024 10:41:19][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:27:39][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:27:58][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:28:12][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:29:17][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:29:51][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:30:39][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:30:40][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:31:01][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:31:29][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:32:01][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:32:04][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:32:27][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:32:36][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:32:47][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:32:54][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:33:29][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:34:19][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:35:15][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:35:26][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:35:35][Invalid Stripe] Invalid stripe signature
+[16.10.2024 11:37:21][Invalid Stripe] Invalid stripe signature
+[17.10.2024 12:42:47][Invalid Stripe] Invalid stripe signature
+[17.10.2024 12:52:57][Invalid Stripe] Invalid stripe signature

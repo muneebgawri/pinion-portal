@@ -1,0 +1,44 @@
+{
+  "name": "wedevs/wp-user-frontend-pro",
+  "description": "Premium version of WP User Frontend",
+  "type": "wordpress-plugin",
+  "license": "GPLv2",
+  "authors": [
+    {
+      "name": "Tareq Hasan",
+      "email": "tareq@wedevs.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0",
+    "composer/installers": ">=1.4",
+    "wedevs/wp-utils": "dev-main"
+  },
+  "require-dev": {
+    "wp-coding-standards/wpcs": "dev-develop",
+    "dealerdirect/phpcodesniffer-composer-installer": "0.7.0",
+    "tareq1988/wp-php-cs-fixer": "dev-master",
+    "phpcompatibility/phpcompatibility-wp": "dev-master",
+    "phpunit/phpunit": "7.5.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "WeDevs\\Wpuf\\Pro\\": "includes/"
+    }
+  },
+  "scripts": {
+    "phpcs": [
+      "phpcs -p -s"
+    ],
+    "phpcbf": [
+      "phpcbf -p"
+    ]
+  },
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true,
+      "dealerdirect/phpcodesniffer-composer-installer": true
+    }
+  }
+}
